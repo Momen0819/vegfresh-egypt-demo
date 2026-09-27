@@ -138,6 +138,13 @@ const zh: Dictionary = {
   pages,
   ui: { swipe: "滑动查看更多" },
   wa: { short: "WhatsApp", tip: "通过 WhatsApp 联系我们", hello: "您好 Veg Fresh，我想咨询贵公司的产品。", toTop: "返回顶部" },
+  underDev: {
+    badge: "预览演示版本 (Demo)",
+    title: "页面正在开发中",
+    description: "该页面属于完整项目技术方案的一部分，目前正在进行功能配置与数据对接。",
+    notice: "您可以返回首页体验多语言切换与核心交互模块。",
+    backHome: "返回首页",
+  },
 };
 
 export default zh;

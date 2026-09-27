@@ -138,6 +138,13 @@ const en: Dictionary = {
   pages,
   ui: { swipe: "Swipe for more" },
   wa: { short: "WhatsApp", tip: "Chat with us on WhatsApp", hello: "Hello Veg Fresh, I'd like to ask about your products.", toTop: "Back to top" },
+  underDev: {
+    badge: "Preview Demo Version",
+    title: "Page Under Active Development",
+    description: "This section is part of the full technical scope and is currently undergoing implementation and data integration.",
+    notice: "You can explore the interactive modules and full multilingual capabilities on the Home page.",
+    backHome: "Back to Home Page",
+  },
 };
 
 export default en;
